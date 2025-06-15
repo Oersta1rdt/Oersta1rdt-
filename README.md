@@ -43,4 +43,7 @@ I never quit
 
 ![Oersta1rdt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oersta1rdt&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oersta1rdt&layout=compact&theme=radical)> "Code is like humor. When you have to explain it, it’s bad." – Cory House 7k 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oersta1rdt&layout=compact&theme=radical)> "Code is like humor. When you have to explain it, it’s bad." – Cory House 7k
+
+git commit -m "Update profile README"
+git push origin main
